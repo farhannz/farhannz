@@ -1,5 +1,3 @@
-Hello there!   
-
-Welcome to my humble abode
+Hello there!    
     
 ![](https://komarev.com/ghpvc/?username=farhannz)
